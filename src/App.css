@@ -14,8 +14,9 @@
 }
 
 h1{
-  color: #2355;
+  color: skyblue;
   font-weight: 400;
+  text-transform: uppercase;
 }
 
 .App-header {
