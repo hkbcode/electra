@@ -1,1 +1,1 @@
-##  ElectronJS app with Reactjs
+##  react app
